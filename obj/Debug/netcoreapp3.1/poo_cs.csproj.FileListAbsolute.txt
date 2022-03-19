@@ -1,0 +1,13 @@
+C:\Users\Gabi\Desktop\poo_cs\bin\Debug\netcoreapp3.1\poo_cs.exe
+C:\Users\Gabi\Desktop\poo_cs\bin\Debug\netcoreapp3.1\poo_cs.deps.json
+C:\Users\Gabi\Desktop\poo_cs\bin\Debug\netcoreapp3.1\poo_cs.runtimeconfig.json
+C:\Users\Gabi\Desktop\poo_cs\bin\Debug\netcoreapp3.1\poo_cs.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\poo_cs\bin\Debug\netcoreapp3.1\poo_cs.dll
+C:\Users\Gabi\Desktop\poo_cs\bin\Debug\netcoreapp3.1\poo_cs.pdb
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.dll
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.pdb
+C:\Users\Gabi\Desktop\poo_cs\obj\Debug\netcoreapp3.1\poo_cs.genruntimeconfig.cache
